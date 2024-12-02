@@ -1,0 +1,46 @@
+ body {
+     font-family: 'Arial', sans-serif;
+ }
+
+ /* #home {
+     background-color: #f5f5f5;
+     color: #2c3e50;
+ } */
+ footer {
+     position: relative;
+     bottom: 0;
+     width: 100%;
+     position: relative;
+     bottom: 0;
+     width: 100%;
+     background-color: #004d00;
+     color: #ffffff;
+ }
+
+
+ .nav-link {
+     font-size: 20px;
+ }
+
+ .nav-link:hover {
+     color: black;
+     background-color: rgb(231, 50, 197);
+     border-radius: 10px;
+ }
+
+ #home {
+     background-image: url(/FILES/bg2.jpg);
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     height: 650px;
+ }
+
+ .btn:hover {
+     color: black;
+     background-color: rgb(231, 50, 197);
+ }
+
+ .display-4 {
+     margin-top: 10%;
+ }
